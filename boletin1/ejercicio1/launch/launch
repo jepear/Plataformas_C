@@ -1,0 +1,3 @@
+<launch>
+	<node pkg=”prueba_pkg” type=”prueba” name=”prueba_nodo” output=”screen”/>
+</launch>

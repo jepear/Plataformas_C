@@ -1,0 +1,9 @@
+#GOAL
+int32 numero
+---
+#RESULT
+int32 total
+string msg
+---
+#FEEDBACK
+int32 parcial:
